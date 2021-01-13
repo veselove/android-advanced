@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smartphones>
+    <smartphone>
+        <brand>Apple</brand>
+        <modelName>iPhone 12</modelName>
+        <operatingSystem>iOS</operatingSystem>
+        <internalMemory>64</internalMemory>
+        <ramMemory>4</ramMemory>
+        <batteryCapacity>2815</batteryCapacity>
+    </smartphone>
+    <smartphone>
+        <brand>Samsung</brand>
+        <modelName>Galaxy A71</modelName>
+        <operatingSystem>Android</operatingSystem>
+        <internalMemory>128</internalMemory>
+        <ramMemory>6</ramMemory>
+        <batteryCapacity>4500</batteryCapacity>
+    </smartphone>
+    <smartphone>
+        <brand>Google</brand>
+        <modelName>Pixel 4a</modelName>
+        <operatingSystem>Android</operatingSystem>
+        <internalMemory>128</internalMemory>
+        <ramMemory>6</ramMemory>
+        <batteryCapacity>3140</batteryCapacity>
+    </smartphone>
+    <smartphone>
+        <brand>Xiaomi</brand>
+        <modelName>Mi 10T</modelName>
+        <operatingSystem>Android</operatingSystem>
+        <internalMemory>128</internalMemory>
+        <ramMemory>6</ramMemory>
+        <batteryCapacity>5000</batteryCapacity>
+    </smartphone>
+    <smartphone>
+        <brand>OnePlus</brand>
+        <modelName>8T</modelName>
+        <operatingSystem>Android</operatingSystem>
+        <internalMemory>256</internalMemory>
+        <ramMemory>12</ramMemory>
+        <batteryCapacity>4500</batteryCapacity>
+    </smartphone>
+</smartphones>

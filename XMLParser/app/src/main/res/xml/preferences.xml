@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<PreferenceScreen
+xmlns:android="http://schemas.android.com/apk/res/android">
+<CheckBoxPreference
+    android:key="enlargeText"
+    android:summary="@string/EnlargeTxtHint"
+    android:title="@string/EnlargeTxtText">
+</CheckBoxPreference>
+<CheckBoxPreference
+    android:key="doubleBackPressToExit"
+    android:summary="@string/doublePressHint"
+    android:title="@string/doublePressText">
+</CheckBoxPreference>
+</PreferenceScreen>
